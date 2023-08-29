@@ -1,1 +1,2 @@
-# my-project
+#1 Github Project
+#2 Project Notes
